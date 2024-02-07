@@ -1,0 +1,33 @@
+.app.dark {
+  background-color: #343434;
+}
+
+.dark .TodoWrapper {
+  background: #212121;
+}
+
+.dark .todo-input {
+  border: 1px solid whitesmoke;
+}
+
+.dark .todo-input::placeholder {
+  color: rgb(206, 206, 206);
+}
+
+.dark .todo-btn {
+  background-color: whitesmoke;
+  color: #343434;
+}
+
+.dark .Todo {
+  background: whitesmoke;
+  color: #343434;
+}
+
+.dark .incompleted {
+  color: #343434;
+}
+
+.dark .completed {
+  color: #949090;
+}
